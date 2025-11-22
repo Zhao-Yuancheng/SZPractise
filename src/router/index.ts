@@ -75,11 +75,11 @@ const routes = [
     name: "301",
     component: () => import("@/views/pioneers/301.vue")
   },
-  // {
-  //   path: "/pioneers/302",
-  //   name: "302",
-  //   component: () => import("@/views/pioneers/302.vue")
-  // },
+  {
+    path: "/pioneers/302",
+    name: "302",
+    component: () => import("@/views/pioneers/302.vue")
+  },
   {
     path: "/pioneers/400",
     name: "400",

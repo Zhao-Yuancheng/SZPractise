@@ -165,8 +165,8 @@ const figures = {
         pic: "/src/views/pioneers_imgs/3011.jpg",
       },
       {
-        url: "/pioneers/000",
-        name: "校史溯源",
+        url: "/pioneers/302",
+        name: "兰天考察队",
         pic: "/src/views/pioneers_imgs/0000.jpg",
       },
     ],
