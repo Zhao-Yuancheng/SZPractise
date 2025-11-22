@@ -116,12 +116,7 @@ const router = useRouter();
     </section>
     <section data-role="paragraph" class="_135editor">
       <p>
-        <img
-          style="width: 100%"
-          src="https://bexp.135editor.com/files/users/1632/16329304/202511/nKJNISgd_HA2N.jpg?auth_key=1763308799-0-0-d58f830aa69403a8b11b6d70b64ca148"
-          alt="e61190ef76c6a7efce1b496c62acb851f3deb48fc878.jpg"
-          referrerpolicy="no-referrer"
-        />
+        <v-img src="/src/views/pioneers_imgs/2000.jpg"></v-img>
       </p>
     </section>
     <section data-role="paragraph" class="_135editor">
@@ -1203,35 +1198,34 @@ const router = useRouter();
     </section>
   </section>
   <section>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-        <p>
-          <br />
-        </p>
-
-      </section>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+    <p>
+      <br />
+    </p>
+  </section>
   <v-fab
     icon="mdi-arrow-left"
     size="small"

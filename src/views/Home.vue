@@ -5,8 +5,7 @@ import { useFiguresStore } from "../store/figures";
 import { storeToRefs } from "pinia";
 const router = useRouter();
 const figuresStores = useFiguresStore();
-const {index_now} = storeToRefs(figuresStores)
-
+const { index_now } = storeToRefs(figuresStores);
 
 // const figures = {
 //     0: {
@@ -85,6 +84,16 @@ const figures = {
         name: "校史溯源",
         pic: "/src/views/pioneers_imgs/0000.jpg",
       },
+      {
+        url: "/pioneers/001",
+        name: "顾颉刚先生和辛树帜先生",
+        pic: "/src/views/pioneers_imgs/0011.jpg",
+      },
+      {
+        url: "/pioneers/000",
+        name: "校史溯源",
+        pic: "/src/views/pioneers_imgs/0000.jpg",
+      },
     ],
     picUrl: [
       "/src/views/carousel_imgs/000.jpg",
@@ -94,7 +103,23 @@ const figures = {
   },
   1: {
     date: "战争时期",
-    data: [{ url: "", name: "", pic: "" }],
+    data: [
+      {
+        url: "/pioneers/000",
+        name: "校史溯源",
+        pic: "/src/views/pioneers_imgs/0000.jpg",
+      },
+      {
+        url: "/pioneers/000",
+        name: "校史溯源",
+        pic: "/src/views/pioneers_imgs/0000.jpg",
+      },
+      {
+        url: "/pioneers/000",
+        name: "校史溯源",
+        pic: "/src/views/pioneers_imgs/0000.jpg",
+      },
+    ],
     picUrl: [
       "/src/views/carousel_imgs/100.jpg",
       "/src/views/carousel_imgs/101.jpg",
@@ -107,7 +132,17 @@ const figures = {
       {
         url: "/pioneers/200",
         name: "葛墨林",
-        pic: "https://bexp.135editor.com/files/users/1632/16329304/202511/nKJNISgd_HA2N.jpg?auth_key=1763308799-0-0-d58f830aa69403a8b11b6d70b64ca148",
+        pic: "/src/views/pioneers_imgs/2000.jpg",
+      },
+      {
+        url: "/pioneers/201",
+        name: "黄建国",
+        pic: "/src/views/pioneers_imgs/2011.jpg",
+      },
+      {
+        url: "/pioneers/202",
+        name: "丑纪范",
+        pic: "/src/views/pioneers_imgs/2020.jpg",
       },
     ],
     picUrl: [
@@ -118,7 +153,23 @@ const figures = {
   },
   3: {
     date: "改革开放",
-    data: [{ url: "", name: "", pic: "" }],
+    data: [
+      {
+        url: "/pioneers/300",
+        name: "刘冰校长",
+        pic: "/src/views/pioneers_imgs/3003.jpg",
+      },
+      {
+        url: "/pioneers/301",
+        name: "水天明",
+        pic: "/src/views/pioneers_imgs/3011.jpg",
+      },
+      {
+        url: "/pioneers/000",
+        name: "校史溯源",
+        pic: "/src/views/pioneers_imgs/0000.jpg",
+      },
+    ],
     picUrl: [
       "/src/views/carousel_imgs/300.jpg",
       "/src/views/carousel_imgs/301.jpg",
@@ -143,7 +194,7 @@ const figures = {
         url: "/pioneers/402",
         name: "沈学顺",
         pic: "/src/views/pioneers_imgs/4020.jpg",
-      }
+      },
     ],
     picUrl: [
       "/src/views/carousel_imgs/400.jpg",
@@ -202,22 +253,22 @@ console.log(index_now.value);
     <v-main style="background-color: rgb(236, 252, 255)">
       <div align="center">
         <v-slider
-        v-model="index_now"
-        class="px-3 mt-3"
-        max-width="340"
-        :max="figuresLength - 1"
-        thumb-size="10"
-        thumb-color="#74a6df"
-        track-color="#ddf0f6"
-        track-size="3"
-        track-fill-color="blue-grey"
-        show-ticks="always"
-        :ticks="ticks"
-        tick-size="4"
-        step="1"
-        style="font-size: 0.7rem; color: rgb(0, 89, 139)"
-      >
-      </v-slider>
+          v-model="index_now"
+          class="px-3 mt-3"
+          max-width="340"
+          :max="figuresLength - 1"
+          thumb-size="10"
+          thumb-color="#74a6df"
+          track-color="#ddf0f6"
+          track-size="3"
+          track-fill-color="blue-grey"
+          show-ticks="always"
+          :ticks="ticks"
+          tick-size="4"
+          step="1"
+          style="font-size: 0.7rem; color: rgb(0, 89, 139)"
+        >
+        </v-slider>
       </div>
 
       <!-- <v-card variant="text" class="mx-auto" max-width="340">
@@ -227,7 +278,6 @@ console.log(index_now.value);
           width="340"
         />
       </v-card> -->
-
 
       <v-carousel
         cycle
@@ -244,7 +294,7 @@ console.log(index_now.value);
           cover
         ></v-carousel-item>
       </v-carousel>
-      
+
       <!-- <v-divider class="mt-3" thickness="12" color="info"></v-divider> -->
 
       <v-card
@@ -257,9 +307,7 @@ console.log(index_now.value);
         <v-img :src="dayfigure.pic"></v-img>
         <v-card-text>{{ dayfigure.name }}</v-card-text>
       </v-card>
-
     </v-main>
-    
 
     <v-footer
       class="text-center d-flex flex-column py-0"

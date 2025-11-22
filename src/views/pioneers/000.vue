@@ -27,10 +27,8 @@ const router = useRouter();
       "
       data-tplid="145801"
     >
-
       <section class="">
-        <section class="">
-        </section>
+        <section class=""></section>
         <section
           class="_135editor"
           data-width="88%"
@@ -55,8 +53,8 @@ const router = useRouter();
             class="135brush"
             data-autoskip="1"
           >
-            <p style="margin-bottom: 20px;">
-              <span style="font-size: 48px; font-family: 宋体, SimSun, STSong; "
+            <p style="margin-bottom: 20px">
+              <span style="font-size: 48px; font-family: 宋体, SimSun, STSong"
                 >建校初期</span
               >
             </p>
@@ -159,7 +157,6 @@ const router = useRouter();
               flex-direction: column;
             "
           >
-            
             <section
               style="
                 background-color: #cfd9d6;
@@ -168,7 +165,6 @@ const router = useRouter();
               "
               class=""
             >
-              
               <v-img src="/src/views/pioneers_imgs/0000.jpg"></v-img>
             </section>
           </section>
@@ -655,7 +651,9 @@ const router = useRouter();
                       1921年7月，法政专门学校成立校友会，制定校友会会章；10月，法政专门学校创办《法政周刊》，分送省城各机关及省内各学校张贴街头。
                     </p>
                     <v-img src="/src/views/pioneers_imgs/0003.jpg"></v-img>
-                    <p style="font-size: x-small">甘肃省教育厅给公立法政专门学校的训令（1920年）</p>
+                    <p style="font-size: x-small">
+                      甘肃省教育厅给公立法政专门学校的训令（1920年）
+                    </p>
                   </section>
                 </section>
               </section>
@@ -799,9 +797,7 @@ const router = useRouter();
                 box-sizing: border-box;
               "
               class=""
-            >
-            
-            </section>
+            ></section>
             <section
               style="
                 background-color: #cfd9d6;
@@ -995,7 +991,9 @@ const router = useRouter();
                           <p>
                             1931年2月，国民政府教育部下令，全国各地除广东中山大学外，一律取消“中山”二字，兰州中山大学遂更名甘肃大学；5月，更名为“省立甘肃学院”。
                           </p>
-                          <v-img src="/src/views/pioneers_imgs/0005.jpg"></v-img>
+                          <v-img
+                            src="/src/views/pioneers_imgs/0005.jpg"
+                          ></v-img>
                           <p
                             class="paragraph text-align-type-center"
                             style="
@@ -1425,7 +1423,7 @@ const router = useRouter();
             </section>
           </section>
         </section>
-        
+
         <section
           class="_135editor"
           data-id="145545"
@@ -1584,7 +1582,9 @@ const router = useRouter();
                             data-width="100%"
                             class=""
                           >
-                            <v-img src="/src/views/pioneers_imgs/0009.jpg"></v-img>
+                            <v-img
+                              src="/src/views/pioneers_imgs/0009.jpg"
+                            ></v-img>
                           </section>
                         </section>
                       </section>
@@ -1631,7 +1631,6 @@ const router = useRouter();
             </p>
           </section>
         </section>
-        
       </section>
       <section>
         <p>
@@ -1661,7 +1660,6 @@ const router = useRouter();
         <p>
           <br />
         </p>
-
       </section>
     </section>
   </div>
