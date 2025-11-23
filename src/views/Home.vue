@@ -89,11 +89,11 @@ const figures = {
         name: "顾颉刚先生和辛树帜先生",
         pic: "/src/views/pioneers_imgs/0011.jpg",
       },
-      {
-        url: "/pioneers/000",
-        name: "校史溯源",
-        pic: "/src/views/pioneers_imgs/0000.jpg",
-      },
+      // {
+      //   url: "/pioneers/000",
+      //   name: "校史溯源",
+      //   pic: "/src/views/pioneers_imgs/0000.jpg",
+      // },
     ],
     picUrl: [
       "/src/views/carousel_imgs/000.jpg",
@@ -104,21 +104,21 @@ const figures = {
   1: {
     date: "战争时期",
     data: [
-      {
-        url: "/pioneers/000",
-        name: "校史溯源",
-        pic: "/src/views/pioneers_imgs/0000.jpg",
-      },
-      {
-        url: "/pioneers/000",
-        name: "校史溯源",
-        pic: "/src/views/pioneers_imgs/0000.jpg",
-      },
-      {
-        url: "/pioneers/000",
-        name: "校史溯源",
-        pic: "/src/views/pioneers_imgs/0000.jpg",
-      },
+      // {
+      //   url: "/pioneers/000",
+      //   name: "校史溯源",
+      //   pic: "/src/views/pioneers_imgs/0000.jpg",
+      // },
+      // {
+      //   url: "/pioneers/000",
+      //   name: "校史溯源",
+      //   pic: "/src/views/pioneers_imgs/0000.jpg",
+      // },
+      // {
+      //   url: "/pioneers/000",
+      //   name: "校史溯源",
+      //   pic: "/src/views/pioneers_imgs/0000.jpg",
+      // },
     ],
     picUrl: [
       "/src/views/carousel_imgs/100.jpg",
