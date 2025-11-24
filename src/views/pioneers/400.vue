@@ -337,7 +337,7 @@ const router = useRouter();
                   box-sizing: border-box;
                   max-width: 100% !important;
                 "
-                src="./src/views/pioneers_imgs/4000.jpg"
+                src="./pioneers_imgs/4000.jpg"
                 data-width="100%"
                 draggable="false"
               />

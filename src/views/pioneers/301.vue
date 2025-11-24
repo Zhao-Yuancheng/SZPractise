@@ -234,7 +234,7 @@ const router = useRouter();
                       class=""
                     >
                       <p>
-                        <v-img src="./src/views/pioneers_imgs/3010.jpg"></v-img>
+                        <v-img src="./pioneers_imgs/3010.jpg"></v-img>
                       </p>
                     </section>
                   </section>

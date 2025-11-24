@@ -252,7 +252,7 @@ const router = useRouter();
                       class=""
                     >
                       <p>
-                        <v-img src="./src/views/pioneers_imgs/3000.jpg"></v-img>
+                        <v-img src="./pioneers_imgs/3000.jpg"></v-img>
                       </p>
                     </section>
                   </section>
@@ -347,7 +347,7 @@ const router = useRouter();
                       >
                         <p>
                           <v-img
-                            src="./src/views/pioneers_imgs/3001.jpg"
+                            src="./pioneers_imgs/3001.jpg"
                           ></v-img>
                         </p>
                       </section>
@@ -377,7 +377,7 @@ const router = useRouter();
                       >
                         <p>
                           <v-img
-                            src="./src/views/pioneers_imgs/3002.jpg"
+                            src="./pioneers_imgs/3002.jpg"
                           ></v-img>
                         </p>
                       </section>

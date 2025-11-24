@@ -304,7 +304,7 @@ const router = useRouter();
               >
                 <section>
                   <section style="text-align: center" class="">
-                    <v-img src="./src/views/pioneers_imgs/5010.jpg"></v-img>
+                    <v-img src="./pioneers_imgs/5010.jpg"></v-img>
                   </section>
                 </section>
                 <section
@@ -400,7 +400,7 @@ const router = useRouter();
               >
                 <section>
                   <section style="text-align: center" class="">
-                    <v-img src="./src/views/pioneers_imgs/5011.jpg"></v-img>
+                    <v-img src="./pioneers_imgs/5011.jpg"></v-img>
                   </section>
                 </section>
                 <section>

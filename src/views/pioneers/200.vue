@@ -116,7 +116,7 @@ const router = useRouter();
     </section>
     <section data-role="paragraph" class="_135editor">
       <p>
-        <v-img src="./src/views/pioneers_imgs/2000.jpg"></v-img>
+        <v-img src="./pioneers_imgs/2000.jpg"></v-img>
       </p>
     </section>
     <section data-role="paragraph" class="_135editor">

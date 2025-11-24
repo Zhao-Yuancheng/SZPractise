@@ -118,7 +118,7 @@ const router = useRouter();
     <section class="_135editor">
       <p style="text-align: center" align="center">
         <img
-          src="./src/views/pioneers_imgs/2010.jpg"
+          src="./pioneers_imgs/2010.jpg"
           alt=""
           style="vertical-align: baseline"
           draggable="false"

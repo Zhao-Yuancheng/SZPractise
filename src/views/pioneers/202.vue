@@ -116,7 +116,7 @@ const router = useRouter();
     </section>
     <section class="_135editor">
       <p>
-        <v-img src="./src/views/pioneers_imgs/2021.jpg"></v-img>
+        <v-img src="./pioneers_imgs/2021.jpg"></v-img>
       </p>
     </section>
     <section data-role="paragraph" class="_135editor">
@@ -258,7 +258,7 @@ const router = useRouter();
                       那个时候就北京大学和南京大学有气象专业，气象人才主要是北京大学和南京大学培养的。这就出现一个问题，部队的气象工作人员，都是从北京大学、南京大学毕业以后分来的，分来以后就不安心留在东北、西北、东南这些比较艰苦、比较偏远的地区工作。他们就想方设法调走。部队上一看这样不行，讨论说干脆就地培养，从西北招的，毕业后就分到西北，从东北招的，毕业后就分到东北。就找西北的兰州大学、东北的吉林大学、西南的云南大学成立气象专业，要就地培养气象人才。
                     </p>
                     <p>
-                      <v-img src="./src/views/pioneers_imgs/2020.jpg"></v-img>
+                      <v-img src="./pioneers_imgs/2020.jpg"></v-img>
                     </p>
                     <p>
                       但是这几个学校缺气象方面的教师啊！这个时候，兰大就向部队提出支援师资的请求。干校这些人不能穿军装，但去学校教书是可以的。在这个背景下，就把我从干校调到兰大了。
