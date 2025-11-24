@@ -8,7 +8,7 @@ const router = useRouter();
   <v-fab
     icon="mdi-arrow-left"
     size="small"
-    style="position: fixed; top: 20px; left: 10px"
+    style="position: fixed; top: 20px; left: 10px; z-index: 6"
     @click="router.back()"
   ></v-fab>
   <div class="pa-7" style="background-color: #f8f6e9">
@@ -186,7 +186,9 @@ const router = useRouter();
                   -o-transform: skew(10deg);
                 "
               >
-                <strong class="135brush" data-brushtype="text">西部气候的探索者</strong>
+                <strong class="135brush" data-brushtype="text"
+                  >西部气候的探索者</strong
+                >
               </section>
             </section>
           </section>
@@ -314,9 +316,7 @@ const router = useRouter();
               "
               data-width="100%"
               class=""
-            >
-            
-            </section>
+            ></section>
             <section
               style="
                 width: 100%;
@@ -329,20 +329,18 @@ const router = useRouter();
               "
               data-width="100%"
             >
-              
               <img
-                  
-                  style="
-                    width: 100%;
-                    display: block;
-                    
-                    box-sizing: border-box;
-                    max-width: 100% !important;
-                  "
-                  src="/src/views/pioneers_imgs/4000.jpg"
-                  data-width="100%"
-                  draggable="false"
-                />
+                style="
+                  width: 100%;
+                  display: block;
+
+                  box-sizing: border-box;
+                  max-width: 100% !important;
+                "
+                src="/src/views/pioneers_imgs/4000.jpg"
+                data-width="100%"
+                draggable="false"
+              />
             </section>
           </section>
         </section>

@@ -1229,7 +1229,7 @@ const router = useRouter();
   <v-fab
     icon="mdi-arrow-left"
     size="small"
-    style="position: fixed; top: 20px; left: 10px"
+    style="position: fixed; top: 20px; left: 10px; z-index: 6"
     @click="router.back()"
   ></v-fab>
 </template>

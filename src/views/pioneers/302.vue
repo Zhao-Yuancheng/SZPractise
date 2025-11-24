@@ -8,7 +8,7 @@ const router = useRouter();
   <v-fab
     icon="mdi-arrow-left"
     size="small"
-    style="position: fixed; top: 20px; left: 10px"
+    style="position: fixed; top: 20px; left: 10px; z-index: 6"
     @click="router.back()"
   ></v-fab>
   <div class="pa-7" style="background-color: #f8f6e9">
@@ -289,18 +289,7 @@ const router = useRouter();
                       data-width="395px"
                       width="395px"
                     >
-                      <img
-                        src="https://bexp.135editor.com/files/users/1632/16329530/202511/qIWNPEvT_TkFp.jpg?auth_key=1763308799-0-0-368495e2d05bb8cb4e5976b882388ca3"
-                        style="
-                          vertical-align: baseline;
-                          width: 345px;
-                          box-sizing: border-box;
-                        "
-                        alt="EE08BC1027BC83D9B469EFC83F7_2F14DC12_12F9C.jpg"
-                        data-width="345px"
-                        width="345"
-                        draggable="false"
-                      />
+                      <v-img src="/src/views/pioneers_imgs/3020.png"></v-img>
                     </section>
                     <section
                       style="
@@ -383,19 +372,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <img
-                          src="https://bexp.135editor.com/files/users/1632/16329530/202511/IsqcKkd2_aYBa.jpg?auth_key=1763308799-0-0-f519e303132a006973cb7d7930c84aca"
-                          style="
-                            width: 297px;
-                            display: block;
-                            vertical-align: baseline;
-                            box-sizing: border-box;
-                          "
-                          alt="CC419D620599E1308504A73D784_BFCD0C92_BDF4.jpg"
-                          width="297"
-                          data-width="297px"
-                          draggable="false"
-                        />
+                        <v-img src="/src/views/pioneers_imgs/3021.png"></v-img>
                       </section>
                     </section>
                   </section>
@@ -422,19 +399,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <img
-                          src="https://bexp.135editor.com/files/users/1632/16329530/202511/yPBLp5uZ_g5Fh.jpg?auth_key=1763308799-0-0-f260827247bb562521af661dad72c01d"
-                          style="
-                            width: 242px;
-                            display: block;
-                            vertical-align: baseline;
-                            box-sizing: border-box;
-                          "
-                          alt="802DDB3E6194D95BE3C7B68B09F_E03CE823_5EAF2.jpg"
-                          width="242"
-                          data-width="242px"
-                          draggable="false"
-                        />
+                        <v-img src="/src/views/pioneers_imgs/3022.png"></v-img>
                       </section>
                     </section>
                     <section
@@ -511,8 +476,7 @@ const router = useRouter();
                       caret-color: red;
                       background-color: rgb(211, 229, 193);
                     "
-                    >/十/四/节/气/之/一</span
-                  >
+                  ></span>
                 </p>
               </section>
             </section>
@@ -646,18 +610,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <img
-                          src="https://bexp.135editor.com/files/users/1632/16329530/202511/DHI9eVB6_rcDJ.jpg?auth_key=1763308799-0-0-4f32dbec95b2d4caae54c22f95034f2c"
-                          style="
-                            width: 100%;
-                            display: block;
-                            vertical-align: baseline;
-                            box-sizing: border-box;
-                            max-width: 100% !important;
-                          "
-                          alt="2BBB5DA48BD3E2728D3BA9FFF92_A8CE7242_3F47B.jpg"
-                          draggable="false"
-                        />
+                        <v-img src="/src/views/pioneers_imgs/3023.png"></v-img>
                       </section>
                     </section>
                     <section
@@ -755,18 +708,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <img
-                        src="https://bexp.135editor.com/files/users/1632/16329530/202511/bOpZdSzn_nkvV.jpg?auth_key=1763308799-0-0-99d0e15a72080dcb552c9651e9e2eb67"
-                        style="
-                          width: 100%;
-                          display: block;
-                          vertical-align: baseline;
-                          box-sizing: border-box;
-                          max-width: 100% !important;
-                        "
-                        alt="A3A01D94E9BBE4DB811591FE79C_D44D03AF_1D269.jpg"
-                        draggable="false"
-                      />
+                      <v-img src="/src/views/pioneers_imgs/3025.png"></v-img>
                     </section>
                   </section>
                   <section
@@ -786,18 +728,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <img
-                        src="https://bexp.135editor.com/files/users/1632/16329530/202511/zTF8UIDS_J9up.jpg?auth_key=1763308799-0-0-0c2ef543f0e4db9b81721e82be75c7a3"
-                        style="
-                          width: 100%;
-                          display: block;
-                          vertical-align: baseline;
-                          box-sizing: border-box;
-                          max-width: 100% !important;
-                        "
-                        alt="F6B14A84109D7C4CDF8491ED357_7A7DBC27_454FA.jpg"
-                        draggable="false"
-                      />
+                      <v-img src="/src/views/pioneers_imgs/3024.png"></v-img>
                     </section>
                     <section
                       style="
@@ -888,18 +819,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <img
-                          src="https://bexp.135editor.com/files/users/1632/16329530/202511/VdSPDE5H_gXqV.jpg?auth_key=1763308799-0-0-6cd6d4fcb909e418fbf1e2dee6bdd45d"
-                          style="
-                            width: 100%;
-                            display: block;
-                            vertical-align: baseline;
-                            box-sizing: border-box;
-                            max-width: 100% !important;
-                          "
-                          alt="9678E20995A02D644B16C8D3CF5_F484E4A4_15519.jpg"
-                          draggable="false"
-                        />
+                        <v-img src="/src/views/pioneers_imgs/3026.png"></v-img>
                       </section>
                     </section>
                   </section>
@@ -920,18 +840,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <img
-                        src="https://bexp.135editor.com/files/users/1632/16329530/202511/ccVLcHeI_dDIF.jpg?auth_key=1763308799-0-0-23d1a59d766e1a47cfa9541151309e88"
-                        style="
-                          width: 100%;
-                          display: block;
-                          vertical-align: baseline;
-                          box-sizing: border-box;
-                          max-width: 100% !important;
-                        "
-                        alt="DF4BC8B9E8D6D69F749F066DDD6_8CBFA88F_1E8E0.jpg"
-                        draggable="false"
-                      />
+                      <v-img src="/src/views/pioneers_imgs/3027.png"></v-img>
                     </section>
                   </section>
                 </section>
@@ -1054,18 +963,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <img
-                        src="https://bexp.135editor.com/files/users/1632/16329530/202511/SHWDPCNB_OwLz.jpg?auth_key=1763308799-0-0-68ffa4e95422b4cc51ffdce81a89d08c"
-                        style="
-                          width: 100%;
-                          display: block;
-                          vertical-align: baseline;
-                          box-sizing: border-box;
-                          max-width: 100% !important;
-                        "
-                        alt="0197644244E2E571E4E941C6D15_B979D9E3_40028.jpg"
-                        draggable="false"
-                      />
+                      <v-img src="/src/views/pioneers_imgs/3028.png"></v-img>
                     </section>
                   </section>
                   <section
@@ -1129,18 +1027,7 @@ const router = useRouter();
                     data-width="80%"
                     class=""
                   >
-                    <img
-                      src="https://bexp.135editor.com/files/users/1632/16329530/202511/3P5XZxSH_52GI.jpg?auth_key=1763308799-0-0-5c043d55344471601b8dc0a41db34050"
-                      style="
-                        width: 100%;
-                        display: block;
-                        vertical-align: baseline;
-                        box-sizing: border-box;
-                        max-width: 100% !important;
-                      "
-                      alt="EF8333E4C0741E42F6ADF8908EA_A426F90A_4F19.jpg"
-                      draggable="false"
-                    />
+                    <v-img src="/src/views/pioneers_imgs/3029.png"></v-img>
                   </section>
                   <section style="display: flex">
                     <section
@@ -1243,18 +1130,7 @@ const router = useRouter();
                     data-width="70%"
                     class=""
                   >
-                    <img
-                      src="https://bexp.135editor.com/files/users/1632/16329530/202511/YK3W4Lyu_kKm6.jpg?auth_key=1763308799-0-0-13ad8a0d5e6d28569b34ab6d0966b085"
-                      style="
-                        width: 100%;
-                        display: block;
-                        vertical-align: baseline;
-                        box-sizing: border-box;
-                        max-width: 100% !important;
-                      "
-                      alt="3CE949A3294C91EFEAD67D1AEEB_074AD9A4_4BA10.jpg"
-                      draggable="false"
-                    />
+                    <v-img src="/src/views/pioneers_imgs/30210.png"></v-img>
                   </section>
                 </section>
               </section>

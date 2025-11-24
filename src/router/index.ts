@@ -35,16 +35,16 @@ const routes = [
   //   component: () => import("@/views/pioneers/002.vue")
   // },
 
-  // {
-  //   path: "/pioneers/100",
-  //   name: "100",
-  //   component: () => import("@/views/pioneers/100.vue")
-  // },
-  // {
-  //   path: "/pioneers/101",
-  //   name: "101",
-  //   component: () => import("@/views/pioneers/101.vue")
-  // },
+  {
+    path: "/pioneers/500",
+    name: "500",
+    component: () => import("@/views/pioneers/500.vue")
+  },
+  {
+    path: "/pioneers/501",
+    name: "501",
+    component: () => import("@/views/pioneers/501.vue")
+  },
   // {
   //   path: "/pioneers/102",
   //   name: "102",

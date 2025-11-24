@@ -8,11 +8,10 @@ const router = useRouter();
   <v-fab
     icon="mdi-arrow-left"
     size="small"
-    style="position: fixed; top: 20px; left: 10px"
+    style="position: fixed; top: 20px; left: 10px; z-index: 6"
     @click="router.back()"
   ></v-fab>
   <div class="pa-7" style="background-color: #f8f6e9">
-    　
     <section
       data-role="outer"
       class="article135"

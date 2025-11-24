@@ -75,9 +75,9 @@ const { index_now } = storeToRefs(figuresStores);
 //     },
 // }
 
-const figures = {
-  0: {
-    date: "建校初期",
+const figures = [
+   {
+    date: "建校伊始",
     data: [
       {
         url: "/pioneers/000",
@@ -99,35 +99,14 @@ const figures = {
       "/src/views/carousel_imgs/000.jpg",
       "/src/views/carousel_imgs/001.jpg",
       "/src/views/carousel_imgs/002.jpg",
-    ],
-  },
-  1: {
-    date: "战争时期",
-    data: [
-      // {
-      //   url: "/pioneers/000",
-      //   name: "校史溯源",
-      //   pic: "/src/views/pioneers_imgs/0000.jpg",
-      // },
-      // {
-      //   url: "/pioneers/000",
-      //   name: "校史溯源",
-      //   pic: "/src/views/pioneers_imgs/0000.jpg",
-      // },
-      // {
-      //   url: "/pioneers/000",
-      //   name: "校史溯源",
-      //   pic: "/src/views/pioneers_imgs/0000.jpg",
-      // },
-    ],
-    picUrl: [
       "/src/views/carousel_imgs/100.jpg",
       "/src/views/carousel_imgs/101.jpg",
       "/src/views/carousel_imgs/102.jpg",
     ],
   },
-  2: {
-    date: "发展初期",
+  
+  {
+    date: "发展时期",
     data: [
       {
         url: "/pioneers/200",
@@ -151,7 +130,7 @@ const figures = {
       "/src/views/carousel_imgs/202.jpg",
     ],
   },
-  3: {
+   {
     date: "改革开放",
     data: [
       {
@@ -167,7 +146,7 @@ const figures = {
       {
         url: "/pioneers/302",
         name: "兰天考察队",
-        pic: "/src/views/pioneers_imgs/0000.jpg",
+        pic: "/src/views/pioneers_imgs/3024.png",
       },
     ],
     picUrl: [
@@ -177,7 +156,7 @@ const figures = {
       "/src/views/carousel_imgs/303.jpg",
     ],
   },
-  4: {
+  {
     date: "新世纪",
     data: [
       {
@@ -203,14 +182,39 @@ const figures = {
       "/src/views/carousel_imgs/403.jpg",
     ],
   },
-};
+  {
+    date: "新青年",
+    data: [
+      {
+        url: "/pioneers/500",
+        name: "金易",
+        pic: "/src/views/pioneers_imgs/5001.jpg",
+      },
+      {
+        url: "/pioneers/501",
+        name: "靳志文",
+        pic: "/src/views/pioneers_imgs/5010.jpg",
+      },
+      // {
+      //   url: "/pioneers/000",
+      //   name: "校史溯源",
+      //   pic: "/src/views/pioneers_imgs/0000.jpg",
+      // },
+    ],
+    picUrl: [
+      "/src/views/carousel_imgs/500.jpg",
+      "/src/views/carousel_imgs/501.jpg",
+      "/src/views/carousel_imgs/502.jpg",
+    ],
+  },
+];
 
 const ticks = {
-  0: "建校初期",
-  1: "战争时期",
-  2: "发展初期",
-  3: "改革开放",
-  4: "新世纪",
+  0: "建校伊始",
+  1: "发展时期",
+  2: "改革开放",
+  3: "新世纪",
+  4: "新青年",
 };
 // const index_now = ref(0);
 
@@ -236,7 +240,7 @@ console.log(index_now.value);
       <v-app-bar-title
         class="text-center"
         style="font-size: 16px; font-weight: bold"
-        >标题</v-app-bar-title
+        >榜样中的思政课&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</v-app-bar-title
       >
       <template v-slot:append>
         <v-btn
@@ -287,7 +291,7 @@ console.log(index_now.value);
         class="elevation-10"
       >
         <v-carousel-item
-          v-for="(carouselImg, index) in figures[index_now]['picUrl']"
+          v-for="(carouselImg, index) in figures[index_now ]['picUrl']"
           :key="index"
           :src="carouselImg"
           class="pa-2"
@@ -299,13 +303,14 @@ console.log(index_now.value);
 
       <v-card
         class="mx-2 my-5 elevation-10"
-        color="#ffffff"
+        variant="tonal"
+        color="blue-darken-4"
         v-for="(dayfigure, index) in figures[index_now]['data']"
         :key="index"
         @click="router.push(dayfigure['url'])"
       >
         <v-img :src="dayfigure.pic"></v-img>
-        <v-card-text>{{ dayfigure.name }}</v-card-text>
+        <v-card-text class="text-subtitle-1">{{ dayfigure.name }}</v-card-text>
       </v-card>
     </v-main>
 
