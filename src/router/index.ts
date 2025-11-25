@@ -10,6 +10,11 @@ const routes = [
     redirect: '/home',
   },
   {
+    path: "/about",
+    name:"about",
+    component: () => import("@/views/About.vue"),
+  },
+  {
     path: "/home", // 路由路径
     name: "home", // 路由名称
     component: () => import("@/views/Home.vue"),

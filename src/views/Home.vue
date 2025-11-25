@@ -177,10 +177,10 @@ console.log(index_now.value);
       <template v-slot:append>
         <v-btn
           class="elevation-10"
-          href="https://marx.lzu.edu.cn/info/1134/6171.htm"
           style="width: 81px; height: 30px"
+          @click="router.push('/about')"
         >
-          指导老师
+          关于我们
         </v-btn>
       </template>
     </v-app-bar>
