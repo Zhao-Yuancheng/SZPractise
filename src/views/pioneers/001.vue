@@ -353,32 +353,7 @@ const router = useRouter();
                       顾颉刚（1893年5月8日—1980年12月25日），原名诵坤，字铭坚，号颉刚；小名双庆，笔名余毅等，江苏苏州人。中国现代著名历史学家、民俗学家，古史辨学派创始人，现代历史地理学和民俗学的开拓者、奠基人。
                     </p>
                   </section>
-                  <section
-                    data-id="138279"
-                    style="margin: 20px 0px 0px; box-sizing: border-box"
-                  >
-                    <section
-                      style="
-                        margin: 10px auto;
-                        display: flex;
-                        justify-content: space-between;
-                        align-items: flex-end;
-                      "
-                      class=""
-                    >
-                      <section
-                        style="
-                          width: 48%;
-                          box-sizing: border-box;
-                          max-width: 48% !important;
-                        "
-                        data-width="48%"
-                        class=""
-                      >
-                        1
-                      </section>
-                    </section>
-                  </section>
+                  <v-img src="./pioneers_imgs/0012.jpg"></v-img>
                 </section>
               </section>
               <section
@@ -679,46 +654,8 @@ const router = useRouter();
                         >在好友的盛情邀约下，顾颉刚于民国三十七年（1948年）6月抵达兰州。来兰州之后，顾颉刚受到辛树帜的热情招待，当时兰大流传&quot;辛校长办学有三宝，图书、仪器、顾颉老&quot;。此时，顾颉刚也想借此机会将自己30年的历史研究系统化，从6月21日起至12月2日离开兰州，顾颉刚一共集中讲投了235个课时的中国古代史。</span
                       >
                     </section>
-                    <p>
-                      <br />
-                    </p>
                   </section>
-                  <section
-                    data-id="138316"
-                    style="margin: 20px 0px 0px; box-sizing: border-box"
-                  >
-                    <section
-                      style="
-                        margin: 10px auto;
-                        display: flex;
-                        justify-content: space-between;
-                        align-items: flex-end;
-                      "
-                      class=""
-                    >
-                      <section
-                        style="
-                          width: 48%;
-                          box-sizing: border-box;
-                          max-width: 48% !important;
-                        "
-                        data-width="48%"
-                      >
-                        <section
-                          style="
-                            line-height: 0;
-                            background-color: #cfd9d6;
-                            padding: 4px;
-                            border-radius: 100%;
-                            box-sizing: border-box;
-                          "
-                          class=""
-                        >
-                          2
-                        </section>
-                      </section>
-                    </section>
-                  </section>
+                  <v-img src="./pioneers_imgs/0013.jpg"></v-img>
                 </section>
               </section>
               <section
@@ -851,31 +788,7 @@ const router = useRouter();
                       王震中：顾颉刚是新文化运动中涌现出的大师，终生治学，孜孜不倦，自20世纪20年代以来，他在古史研究、古文献研究、历史地理学和民俗学等领域作出了杰出贡献，国内外学术影响巨大。《顾颉刚全集》的出版对中国古史学、古文献学、历史地理学、民俗学以及近现代学术史都将产生举足轻重的作用，具有极高学术价值和文献价值。
                     </p>
                   </section>
-                  <section
-                    data-id="138279"
-                    style="margin: 20px 0px 0px; box-sizing: border-box"
-                  >
-                    <section
-                      style="
-                        margin: 10px auto;
-                        display: flex;
-                        justify-content: space-between;
-                        align-items: flex-end;
-                      "
-                    >
-                      <section
-                        style="
-                          width: 48%;
-                          box-sizing: border-box;
-                          max-width: 48% !important;
-                        "
-                        data-width="48%"
-                        class=""
-                      >
-                        3
-                      </section>
-                    </section>
-                  </section>
+                  <v-img src="./pioneers_imgs/0014.jpg"></v-img>
                 </section>
               </section>
               <section
@@ -1039,23 +952,7 @@ const router = useRouter();
                 box-sizing: border-box;
               "
             >
-              <section style="width: 55px; box-sizing: border-box">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewbox="0 0 920.29 243.3"
-                  style="display: block"
-                  xml:space="default"
-                >
-                  <g id="图层_2" data-name="图层 2">
-                    <g id="图层_1-2" data-name="图层 1">
-                      <path
-                        d="M0,229.87v6c2.17,6.56,3.26,7.35,10.35,7.45,1.16,0,2.33,0,3.5,0H728.36c24.21,0,42.59-13,48.39-34.33,6.57-24.08-2.45-46.91-23.44-59.09-8.27-4.8-17.33-6.58-26.82-6.58q-84.13,0-168.26,0a37.26,37.26,0,0,1-8.93-.64c-11.2-2.7-18.78-12.43-17.89-23.16a22.81,22.81,0,0,1,21.66-20.92c2.83-.17,5.66-.06,8.49-.06q154,0,308.07,0c19.75,0,34.87-8.31,45.3-25.1,6.17-9.93,5.51-20.88,5.13-31.82-.61-17.14-10.25-28.39-24-37.14C890.69,1,884.6,1.38,878.86,0H382.51c-7.15,2.3-10.1,6.07-9.64,12.34.47,6.5,5.32,11.35,12.34,12.29a60.74,60.74,0,0,0,8,.23q93.09,0,186.19,0c10,0,17.88,3.82,22.73,12.6,8.55,15.43-2.15,34.19-19.86,35.15-2.66.14-5.32.05-8,.05H334.16c-17,0-31.4,5.93-41.78,19.52-12.24,16-14.35,33.87-5.75,52,8.79,18.53,24.27,28,44.89,28.91,3.82.16,7.65,0,11.48,0q55.9,0,111.82,0c14.46,0,25.44,10.32,25.52,23.71.09,13.62-10.92,24-25.69,24q-217.39.07-434.79,0c-2.66,0-5.33-.07-8,.06C4.57,221.33,2.24,223.09,0,229.87Z"
-                        style="fill: #cac4b1"
-                      ></path>
-                    </g>
-                  </g>
-                </svg>
-              </section>
+              <section style="width: 55px; box-sizing: border-box"></section>
             </section>
             <section
               style="
@@ -1065,7 +962,7 @@ const router = useRouter();
               "
               class=""
             >
-              <span style="background-color: #ffffff; caret-color: red">4</span>
+              <v-img src="./pioneers_imgs/0015.jpg"></v-img>
             </section>
           </section>
         </section>
@@ -2043,18 +1940,7 @@ const router = useRouter();
                 style="display: flex; justify-content: space-between"
                 class=""
               >
-                <section
-                  style="
-                    width: 32%;
-                    margin-top: -10px;
-                    padding: 0 0 10px;
-                    box-sizing: border-box;
-                    max-width: 32% !important;
-                  "
-                  data-width="32%"
-                >
-                  5
-                </section>
+                <v-img src="./pioneers_imgs/0016.jpg"></v-img>
               </section>
             </section>
           </section>
@@ -2205,23 +2091,7 @@ const router = useRouter();
                 box-sizing: border-box;
               "
             >
-              <section style="width: 55px; box-sizing: border-box">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewbox="0 0 920.29 243.3"
-                  style="display: block"
-                  xml:space="default"
-                >
-                  <g id="图层_2" data-name="图层 2">
-                    <g id="图层_1-2" data-name="图层 1">
-                      <path
-                        d="M0,229.87v6c2.17,6.56,3.26,7.35,10.35,7.45,1.16,0,2.33,0,3.5,0H728.36c24.21,0,42.59-13,48.39-34.33,6.57-24.08-2.45-46.91-23.44-59.09-8.27-4.8-17.33-6.58-26.82-6.58q-84.13,0-168.26,0a37.26,37.26,0,0,1-8.93-.64c-11.2-2.7-18.78-12.43-17.89-23.16a22.81,22.81,0,0,1,21.66-20.92c2.83-.17,5.66-.06,8.49-.06q154,0,308.07,0c19.75,0,34.87-8.31,45.3-25.1,6.17-9.93,5.51-20.88,5.13-31.82-.61-17.14-10.25-28.39-24-37.14C890.69,1,884.6,1.38,878.86,0H382.51c-7.15,2.3-10.1,6.07-9.64,12.34.47,6.5,5.32,11.35,12.34,12.29a60.74,60.74,0,0,0,8,.23q93.09,0,186.19,0c10,0,17.88,3.82,22.73,12.6,8.55,15.43-2.15,34.19-19.86,35.15-2.66.14-5.32.05-8,.05H334.16c-17,0-31.4,5.93-41.78,19.52-12.24,16-14.35,33.87-5.75,52,8.79,18.53,24.27,28,44.89,28.91,3.82.16,7.65,0,11.48,0q55.9,0,111.82,0c14.46,0,25.44,10.32,25.52,23.71.09,13.62-10.92,24-25.69,24q-217.39.07-434.79,0c-2.66,0-5.33-.07-8,.06C4.57,221.33,2.24,223.09,0,229.87Z"
-                        style="fill: #cac4b1"
-                      ></path>
-                    </g>
-                  </g>
-                </svg>
-              </section>
+              <section style="width: 55px; box-sizing: border-box"></section>
             </section>
             <section
               style="
@@ -2231,7 +2101,7 @@ const router = useRouter();
               "
               class=""
             >
-              6
+              <v-img src="./pioneers_imgs/0017.jpg"></v-img>
             </section>
           </section>
         </section>
@@ -2341,7 +2211,7 @@ const router = useRouter();
                     </section>
                   </section>
                   <section class="">
-                    <p>7</p>
+                    <v-img src="./pioneers_imgs/0018.jpg"></v-img>
                   </section>
                 </section>
               </section>

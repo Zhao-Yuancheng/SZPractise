@@ -78,7 +78,7 @@ const figures = [
       {
         url: "/pioneers/302",
         name: "兰天考察队",
-        pic: "./pioneers_imgs/3024.png",
+        pic: "./pioneers_imgs/3024.jpg",
       },
     ],
     picUrl: [
@@ -120,12 +120,12 @@ const figures = [
       {
         url: "/pioneers/500",
         name: "金易",
-        pic: "./pioneers_imgs/5001.jpg",
+        pic: "./pioneers_imgs/5000.jpg",
       },
       {
         url: "/pioneers/501",
         name: "靳志文",
-        pic: "./pioneers_imgs/5010.jpg",
+        pic: "./pioneers_imgs/5011.jpg",
       },
       // {
       //   url: "/pioneers/000",
