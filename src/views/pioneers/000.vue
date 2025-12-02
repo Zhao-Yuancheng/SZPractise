@@ -165,7 +165,7 @@ const router = useRouter();
               "
               class=""
             >
-              <v-img src="/src/views/pioneers_imgs/0000.jpg"></v-img>
+              <v-img src="./pioneers_imgs/0000.jpg"></v-img>
             </section>
           </section>
         </section>
@@ -294,7 +294,7 @@ const router = useRouter();
                       1907年，课吏馆复改组为法政馆，按察使陈灿及彭英甲先后任总办。
                     </p>
                     <p>
-                      <v-img src="/src/views/pioneers_imgs/0001.jpg"></v-img>
+                      <v-img src="./pioneers_imgs/0001.jpg"></v-img>
                     </p>
                   </section>
                 </section>
@@ -474,7 +474,7 @@ const router = useRouter();
                     <p>
                       <br />
                     </p>
-                    <v-img src="/src/views/pioneers_imgs/0002.jpg"></v-img>
+                    <v-img src="./pioneers_imgs/0002.jpg"></v-img>
                   </section>
                 </section>
               </section>
@@ -650,7 +650,7 @@ const router = useRouter();
                     <p>
                       1921年7月，法政专门学校成立校友会，制定校友会会章；10月，法政专门学校创办《法政周刊》，分送省城各机关及省内各学校张贴街头。
                     </p>
-                    <v-img src="/src/views/pioneers_imgs/0003.jpg"></v-img>
+                    <v-img src="./pioneers_imgs/0003.jpg"></v-img>
                     <p style="font-size: x-small">
                       甘肃省教育厅给公立法政专门学校的训令（1920年）
                     </p>
@@ -806,7 +806,7 @@ const router = useRouter();
                 box-sizing: border-box;
               "
             >
-              <v-img src="/src/views/pioneers_imgs/0004.jpg"></v-img>
+              <v-img src="./pioneers_imgs/0004.jpg"></v-img>
             </section>
           </section>
         </section>
@@ -992,7 +992,7 @@ const router = useRouter();
                             1931年2月，国民政府教育部下令，全国各地除广东中山大学外，一律取消“中山”二字，兰州中山大学遂更名甘肃大学；5月，更名为“省立甘肃学院”。
                           </p>
                           <v-img
-                            src="/src/views/pioneers_imgs/0005.jpg"
+                            src="./pioneers_imgs/0005.jpg"
                           ></v-img>
                           <p
                             class="paragraph text-align-type-center"
@@ -1298,7 +1298,7 @@ const router = useRouter();
             </section>
           </section>
         </section>
-        <v-img src="/src/views/pioneers_imgs/0008.jpg"></v-img>
+        <v-img src="./pioneers_imgs/0008.jpg"></v-img>
         <section class="">
           <p>
             <br />
@@ -1583,7 +1583,7 @@ const router = useRouter();
                             class=""
                           >
                             <v-img
-                              src="/src/views/pioneers_imgs/0009.jpg"
+                              src="./pioneers_imgs/0009.jpg"
                             ></v-img>
                           </section>
                         </section>

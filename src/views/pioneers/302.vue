@@ -289,7 +289,7 @@ const router = useRouter();
                       data-width="395px"
                       width="395px"
                     >
-                      <v-img src="/src/views/pioneers_imgs/3020.png"></v-img>
+                      <v-img src="./pioneers_imgs/3020.jpg"></v-img>
                     </section>
                     <section
                       style="
@@ -372,7 +372,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <v-img src="/src/views/pioneers_imgs/3021.png"></v-img>
+                        <v-img src="./pioneers_imgs/3021.jpg"></v-img>
                       </section>
                     </section>
                   </section>
@@ -399,7 +399,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <v-img src="/src/views/pioneers_imgs/3022.png"></v-img>
+                        <v-img src="./pioneers_imgs/3022.jpg"></v-img>
                       </section>
                     </section>
                     <section
@@ -610,7 +610,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <v-img src="/src/views/pioneers_imgs/3023.png"></v-img>
+                        <v-img src="./pioneers_imgs/3023.jpg"></v-img>
                       </section>
                     </section>
                     <section
@@ -708,7 +708,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <v-img src="/src/views/pioneers_imgs/3025.png"></v-img>
+                      <v-img src="./pioneers_imgs/3025.jpg"></v-img>
                     </section>
                   </section>
                   <section
@@ -728,7 +728,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <v-img src="/src/views/pioneers_imgs/3024.png"></v-img>
+                      <v-img src="./pioneers_imgs/3024.jpg"></v-img>
                     </section>
                     <section
                       style="
@@ -819,7 +819,7 @@ const router = useRouter();
                         data-width="100%"
                         class=""
                       >
-                        <v-img src="/src/views/pioneers_imgs/3026.png"></v-img>
+                        <v-img src="./pioneers_imgs/3026.jpg"></v-img>
                       </section>
                     </section>
                   </section>
@@ -840,7 +840,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <v-img src="/src/views/pioneers_imgs/3027.png"></v-img>
+                      <v-img src="./pioneers_imgs/3027.jpg"></v-img>
                     </section>
                   </section>
                 </section>
@@ -963,7 +963,7 @@ const router = useRouter();
                       data-width="100%"
                       class=""
                     >
-                      <v-img src="/src/views/pioneers_imgs/3028.png"></v-img>
+                      <v-img src="./pioneers_imgs/3028.jpg"></v-img>
                     </section>
                   </section>
                   <section
@@ -1027,7 +1027,7 @@ const router = useRouter();
                     data-width="80%"
                     class=""
                   >
-                    <v-img src="/src/views/pioneers_imgs/3029.png"></v-img>
+                    <v-img src="./pioneers_imgs/3029.jpg"></v-img>
                   </section>
                   <section style="display: flex">
                     <section
@@ -1130,7 +1130,7 @@ const router = useRouter();
                     data-width="70%"
                     class=""
                   >
-                    <v-img src="/src/views/pioneers_imgs/30210.png"></v-img>
+                    <v-img src="./pioneers_imgs/30210.jpg"></v-img>
                   </section>
                 </section>
               </section>

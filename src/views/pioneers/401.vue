@@ -106,7 +106,7 @@ const router = useRouter();
                 vertical-align: baseline;
                 box-sizing: border-box;
               "
-              src="/src/views/pioneers_imgs/4010.jpg"
+              src="./pioneers_imgs/4010.jpg"
               data-width="100%"
               title="undefined"
               alt=""

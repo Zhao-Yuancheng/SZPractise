@@ -252,7 +252,7 @@ const router = useRouter();
                       class=""
                     >
                       <p>
-                        <v-img src="/src/views/pioneers_imgs/3000.jpg"></v-img>
+                        <v-img src="./pioneers_imgs/3000.jpg"></v-img>
                       </p>
                     </section>
                   </section>
@@ -347,7 +347,7 @@ const router = useRouter();
                       >
                         <p>
                           <v-img
-                            src="/src/views/pioneers_imgs/3001.jpg"
+                            src="./pioneers_imgs/3001.jpg"
                           ></v-img>
                         </p>
                       </section>
@@ -377,7 +377,7 @@ const router = useRouter();
                       >
                         <p>
                           <v-img
-                            src="/src/views/pioneers_imgs/3002.jpg"
+                            src="./pioneers_imgs/3002.jpg"
                           ></v-img>
                         </p>
                       </section>
@@ -699,7 +699,11 @@ const router = useRouter();
                         "
                         data-width="100%"
                         class=""
-                      ></section>
+                      >
+                      <p align="center" style="color: #398054;font-size: 1.4rem">
+                        植树小故事
+                      </p>
+                      </section>
                     </section>
                     <section
                       style="
@@ -749,7 +753,7 @@ const router = useRouter();
                   data-autoskip="1"
                 >
                   <p>
-                    兰大校史记载，1979年，兰大7栋新教师宿舍楼同时开工兴建，创造了建设教师宿舍楼数最多、面积最大的新记录。同时，刘冰还亲力亲为，抓紧督办幼儿园、修缮校医院、关注教职工子女就业。
+                    　　兰大校史记载，1979年，兰大7栋新教师宿舍楼同时开工兴建，创造了建设教师宿舍楼数最多、面积最大的新记录。同时，刘冰还亲力亲为，抓紧督办幼儿园、修缮校医院、关注教职工子女就业。
                   </p>
                   <p>
                     <br />

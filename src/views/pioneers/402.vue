@@ -151,7 +151,7 @@ const router = useRouter();
         box-sizing: border-box;
         margin-bottom: 50px;
       "
-      src="/src/views/pioneers_imgs/4010.jpg"
+      src="./pioneers_imgs/4020.jpg"
       data-width="100%"
       title="undefined"
       alt=""

@@ -1395,7 +1395,7 @@ const router = useRouter();
                     data-width="100%"
                     class=""
                   >
-                    <v-img src="/src/views/pioneers_imgs/5000.jpg"></v-img>
+                    <v-img src="./pioneers_imgs/5000.jpg"></v-img>
                   </section>
                 </section>
                 <section
@@ -2856,7 +2856,7 @@ const router = useRouter();
                     data-width="100%"
                     class=""
                   >
-                    <v-img src="/src/views/pioneers_imgs/5001.jpg"></v-img>
+                    <v-img src="./pioneers_imgs/5001.jpg"></v-img>
                   </section>
                 </section>
                 <section
